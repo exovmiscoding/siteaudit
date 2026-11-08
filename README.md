@@ -151,9 +151,4 @@ It does not search for sites. You always tell it what to look at.
 to. Open the page in a browser, or serve the folder with
 `py -3 -m http.server`.
 
-## Please
-
-Only run this on sites you own or have permission to test. That is the whole
-deal.
-
 made by exovmiscoding
